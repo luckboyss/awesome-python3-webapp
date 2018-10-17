@@ -74,6 +74,8 @@ Git支持多种协议，包括https，但通过ssh支持的原生git协议速度
 https SSH协议切换：将.git/config文件中url = http://xxx.com/Name/project.git改为
 url = git@xxx.com/Name/project.git即可。
 
+四 分支管理
+
 
 
 
